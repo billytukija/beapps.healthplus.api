@@ -21,7 +21,8 @@ namespace beapps.healthplus.api.Controllers
 
             if (_context.Remedies.Count() == 0)
             {
-                _context.Remedies.Add(new Remedy { Description = "Desc", IsActive = true });
+                _context.Remedies.Add(new Remedy { Description = "Desc1", IsActive = true });
+                _context.Remedies.Add(new Remedy { Description = "Desc2", IsActive = false });
                 _context.SaveChanges();
             }
         }
@@ -47,38 +48,5 @@ namespace beapps.healthplus.api.Controllers
                 return remedies;
             }
         }
-
-
-        //// GET: api/<controller>
-        //[HttpGet]
-        //public IEnumerable<string> Get()
-        //{
-        //    return new string[] { "value1", "value2" };
-        //}
-
-        //// GET api/<controller>/5
-        //[HttpGet("{id}")]
-        //public string Get(int id)
-        //{
-        //    return "value";
-        //}
-
-        //// POST api/<controller>
-        //[HttpPost]
-        //public void Post([FromBody]string value)
-        //{
-        //}
-
-        //// PUT api/<controller>/5
-        //[HttpPut("{id}")]
-        //public void Put(int id, [FromBody]string value)
-        //{
-        //}
-
-        //// DELETE api/<controller>/5
-        //[HttpDelete("{id}")]
-        //public void Delete(int id)
-        //{
-        //}
     }
 }
