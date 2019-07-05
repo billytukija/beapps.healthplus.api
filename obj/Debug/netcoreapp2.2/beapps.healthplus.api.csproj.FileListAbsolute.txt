@@ -1,0 +1,14 @@
+C:\Users\Billy Tukija\Documents\GitHub\beapps.healthplus.api\beapps.healthplus.api\bin\Debug\netcoreapp2.2\beapps.healthplus.api.deps.json
+C:\Users\Billy Tukija\Documents\GitHub\beapps.healthplus.api\beapps.healthplus.api\bin\Debug\netcoreapp2.2\beapps.healthplus.api.runtimeconfig.json
+C:\Users\Billy Tukija\Documents\GitHub\beapps.healthplus.api\beapps.healthplus.api\bin\Debug\netcoreapp2.2\beapps.healthplus.api.runtimeconfig.dev.json
+C:\Users\Billy Tukija\Documents\GitHub\beapps.healthplus.api\beapps.healthplus.api\bin\Debug\netcoreapp2.2\beapps.healthplus.api.dll
+C:\Users\Billy Tukija\Documents\GitHub\beapps.healthplus.api\beapps.healthplus.api\bin\Debug\netcoreapp2.2\beapps.healthplus.api.pdb
+C:\Users\Billy Tukija\Documents\GitHub\beapps.healthplus.api\beapps.healthplus.api\obj\Debug\netcoreapp2.2\beapps.healthplus.api.csprojAssemblyReference.cache
+C:\Users\Billy Tukija\Documents\GitHub\beapps.healthplus.api\beapps.healthplus.api\obj\Debug\netcoreapp2.2\beapps.healthplus.api.csproj.CoreCompileInputs.cache
+C:\Users\Billy Tukija\Documents\GitHub\beapps.healthplus.api\beapps.healthplus.api\obj\Debug\netcoreapp2.2\beapps.healthplus.api.RazorAssemblyInfo.cache
+C:\Users\Billy Tukija\Documents\GitHub\beapps.healthplus.api\beapps.healthplus.api\obj\Debug\netcoreapp2.2\beapps.healthplus.api.RazorAssemblyInfo.cs
+C:\Users\Billy Tukija\Documents\GitHub\beapps.healthplus.api\beapps.healthplus.api\obj\Debug\netcoreapp2.2\beapps.healthplus.api.AssemblyInfoInputs.cache
+C:\Users\Billy Tukija\Documents\GitHub\beapps.healthplus.api\beapps.healthplus.api\obj\Debug\netcoreapp2.2\beapps.healthplus.api.AssemblyInfo.cs
+C:\Users\Billy Tukija\Documents\GitHub\beapps.healthplus.api\beapps.healthplus.api\obj\Debug\netcoreapp2.2\beapps.healthplus.api.RazorTargetAssemblyInfo.cache
+C:\Users\Billy Tukija\Documents\GitHub\beapps.healthplus.api\beapps.healthplus.api\obj\Debug\netcoreapp2.2\beapps.healthplus.api.dll
+C:\Users\Billy Tukija\Documents\GitHub\beapps.healthplus.api\beapps.healthplus.api\obj\Debug\netcoreapp2.2\beapps.healthplus.api.pdb
